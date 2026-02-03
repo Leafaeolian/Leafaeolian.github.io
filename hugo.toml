@@ -1,0 +1,4 @@
+baseURL = 'https://Leafaeolian.github.io/'
+languageCode = 'zh-cn'
+title = 'Shengkun Ni'
+theme = 'PaperMod'
