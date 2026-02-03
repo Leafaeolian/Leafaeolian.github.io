@@ -2,3 +2,18 @@ baseURL = 'https://Leafaeolian.github.io/'
 languageCode = 'zh-cn'
 title = 'Shengkun Ni'
 theme = 'PaperMod'
+
+[params]
+    env = 'production'
+    showCodeCopyButtons = true
+    [params.homeInfoParams]
+        Title = "Hello，here is Shengkun Ni"
+        Content = "To be updated"
+
+[[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/Leafaeolian"
+
+[[params.socialIcons]]
+    name = "email"
+    url = "mailto:nsk25@mails.tsinghua.edu.cn"
